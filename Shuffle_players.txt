@@ -1,5 +1,5 @@
 Persha | Kathi
-Veon | Elke
+Veonn | Elke
 Kaijiko | Marc
 Yoshi0okami | Nathy
 Sephirot0 | Felix
@@ -10,4 +10,4 @@ AnnowXD | Andre
 [LittleFirefly | Michi]
 [Schinscha | Florian]
 {TheDeluxe4 | Tim}
-{Rebellion | Marcel}
+{*.Rebellion.* | Marcel}
